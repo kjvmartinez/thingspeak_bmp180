@@ -5,7 +5,7 @@ from time import sleep
 import Adafruit_DHT
 import Adafruit_BMP.BMP085 as BMP085
 
-myAPI = "READ API IN THINGSPEAK CHANNEL"
+myAPI = "WRITE API IN THINGSPEAK CHANNEL"
 
 def main(): 
    print 'starting...'
